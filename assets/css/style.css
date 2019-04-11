@@ -1,0 +1,54 @@
+.body {
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#header {
+    color: rgb(135, 94, 182);
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 15px;
+}
+
+.jumbotron {
+    background-color: darkorchid;
+    color: black;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+
+#directions {
+    color: rgb(78, 75, 75);
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 17px;
+}
+
+#crystalDiv {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.crystals {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    left: padding; 2px;    
+}
+
+.scoreboard {
+    color: rgb(78, 75, 75);
+    text-align: center;
+    font: large;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+
+.winloss {
+
+
+}
