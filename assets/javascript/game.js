@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 
 	function randomNum(min,max){
-		min = Math.ceil(min);
+		min = Math.floor(min);
 		max = Math.floor(max);
 		return Math.floor(Math.random() * (max-min +1)) + min;
 
@@ -72,7 +72,7 @@ $(document).ready(function(){
 
 	if (counter === targetNumber){
 		wins += 1;
-		alert("Winner!");
+		alert("You Win!");
 		$(win).text(wins);
 		reset();
     } 

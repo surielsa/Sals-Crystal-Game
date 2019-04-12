@@ -29,15 +29,14 @@
 }
 
 #crystalDiv {
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
+    width: 50%; 
 }
 
 .crystals {
     width: 200px;
     height: 200px;
     margin: 5px;
-    left: padding; 2px;    
 }
 
 .scoreboard {
@@ -48,7 +47,4 @@
     font-size: 25px;
 }
 
-.winloss {
-
-
-}
+.winloss {}
