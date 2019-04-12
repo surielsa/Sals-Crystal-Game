@@ -32,8 +32,6 @@ $(document).ready(function(){
 		crystalTwo= randomNum(1, 12);
 		crystalThree= randomNum(1, 12);
 		crystalFour= randomNum(1, 12);
-
-
 	}
 
 	
@@ -49,7 +47,6 @@ $(document).ready(function(){
 		WinLose();
 		$(playerScore).text(counter);
 		
-
 	});
 
 	$("#crystal3").on("click", function(){
@@ -57,7 +54,6 @@ $(document).ready(function(){
 		WinLose();
 		$(playerScore).text(counter);
 		
-
 	});
 
 	$("#crystal4").on("click", function(){
@@ -65,7 +61,6 @@ $(document).ready(function(){
 		WinLose();
 		$(playerScore).text(counter);
 		
-
 	});
 
 	function WinLose (){
