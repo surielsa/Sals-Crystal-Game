@@ -1,6 +1,9 @@
 # Crystals Collector Game!
 
+https://surielsa.github.io/unit-4-game/
+
 This is an interactive game that works as instructed below. Enjoy!
+
 
     1. There will be four crystals displayed as buttons on the page.
 
