@@ -1,8 +1,9 @@
 # Crystals Collector Game!
 
-https://surielsa.github.io/unit-4-game/
+https://surielsa.github.io/Sals-Crystal-Game/
 
-This is an interactive game that works as instructed below. Enjoy!
+
+This is an interactive game that works as instructed below. Collect you crystals and enjoy!
 
 
     1. There will be four crystals displayed as buttons on the page.
